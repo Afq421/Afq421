@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Afq421
 - 👀 I’m interested in Front End development
-- 🌱 I’m currently learning HtML, CSS and Javascript
+- 🌱 I’m currently learning HTML, CSS and Javascript
 
 *My dream is to help the world with my technologies;
 
